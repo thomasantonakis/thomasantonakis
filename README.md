@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Thomas Antonakis, please follow my profile:
-![GitHub](https://http://github.com/thomasantonakis)
+![GitHub](https://github.com/thomasantonakis)
 
 <!--
 **thomasantonakis/thomasantonakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
