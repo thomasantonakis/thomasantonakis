@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Thomas Antonakis, please follow my profile:
+![GitHub followers](https://img.shields.io/github/followers/thomasantonakis?style=social)
+
 <!--
 **thomasantonakis/thomasantonakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -46,8 +49,6 @@ thomas.say_hi()
 <br>
 
 ## 🛠️ My favorite tools
-
-![GitHub followers](https://img.shields.io/github/followers/thomasantonakis?style=social)
 
 ### 👨‍💻 Programming languages
 
