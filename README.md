@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 My name is Thomas Antonakis, please follow my profile:
-![GitHub](https://github.com/thomasantonakis)
 
 <!--
 **thomasantonakis/thomasantonakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +28,7 @@ class Me:
     """
     def __init__(self):
         self.name = "Thomas Antonakis"
-        self.role = "Senior Business Intelligence Analyst"
+        self.role = "Senior Staff Business Intelligence Analyst"
         self.employer = "Orfium"
         self.bsc_studies = ("Statistics", "Statistics Dept.", "Athens University Of Economics & Business")
         self.msc_studies = ("Computational Methods in Decision Making", "Statistics Dept.", "Athens University Of Economics & Business")
